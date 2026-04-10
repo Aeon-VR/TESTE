@@ -1,0 +1,23 @@
+#: locale=pt
+
+## Media
+
+### 360 Video
+
+### Title
+media_78419F67_77B2_F7DD_41DA_7F0D8573AF40.label = V_VisaoGeralInterno_MQ_3
+
+### Video
+videores_6628F194_7792_CB72_41C6_923A34FB16B7.posterURL = media/media_78419F67_77B2_F7DD_41DA_7F0D8573AF40_poster_pt.jpg
+videores_66FA6195_778E_CB72_419F_0B78A62C7675.posterURL = media/media_78419F67_77B2_F7DD_41DA_7F0D8573AF40_poster_pt.jpg
+videores_66FA6195_778E_CB72_419F_0B78A62C7675.url = media/media_78419F67_77B2_F7DD_41DA_7F0D8573AF40_pt.mp4
+videores_6628F194_7792_CB72_41C6_923A34FB16B7.url = media/media_78419F67_77B2_F7DD_41DA_7F0D8573AF40_pt_1.mp4
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TESTE
