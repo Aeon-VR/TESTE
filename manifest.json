@@ -1,6 +1,5 @@
 {
  "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF",
  "display": "fullscreen",
  "icons": [
   {
@@ -40,5 +39,6 @@
   }
  ],
  "background_color": "#FFFFFF",
- "name": "Energisa"
+ "name": "Energisa",
+ "theme_color": "#FFFFFF"
 }
